@@ -1,7 +1,7 @@
-### Hi there 👋, My name is TkEmre
+### Hi there 👋, My name is Emre
 #### Software Engineering Student
 
-Skills: C++ / PY
+Skills: C++ / PY / Java
 
 
 
