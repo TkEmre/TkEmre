@@ -1,7 +1,7 @@
 ### Hi there 👋, My name is Emre
 #### Software Engineering Student
 
-Skills: C++ / PY / Java
+Skills: C++ / PY / Java / AI
 
 
 
