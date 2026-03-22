@@ -35,5 +35,5 @@
 ---
 
 ### 📫 Contact
-- **LinkedIn:** [linkedin.com/in/emretek](https://www.linkedin.com/in/emretek443)
+- **LinkedIn:** [linkedin.com/in/emretek443](https://www.linkedin.com/in/emretek443)
 - **GitHub:** [github.com/TkEmre](https://github.com/TkEmre)
